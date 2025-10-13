@@ -35,7 +35,6 @@ The illustration shows ownership, accessibility, and usage differences among the
 ## 🧩 Task 4 – Portfolio / CV Hosting
 
 **CV / Portfolio Links:**  
-🌐 [GitHub Portfolio Repository](https://github.com/Maira222/Assignment1)  
 🌐 [Live Portfolio Page](https://maira222.github.io/mairamalik.github.io/)
 
 This task required designing a simple portfolio/CV in HTML + CSS and publishing it on GitHub Pages.  
