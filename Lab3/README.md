@@ -1,7 +1,10 @@
-**Cloud Computing - Lab #3: Advanced Git Operations**
-**Name: Maira Malik** 
-**Registration No.: 2023-BSE-040** 
-**Subject: Cloud Computing**
+#Cloud Computing - Lab #3: Advanced Git Operations
+
+**Name**: Maira Malik
+**Registration No.**: 2023-BSE-040
+**Subject**: Cloud Computing
+
+----
 
 This lab covers various advanced Git concepts, including managing conflicts, file tracking, resetting history, and setting up development environments.
 
