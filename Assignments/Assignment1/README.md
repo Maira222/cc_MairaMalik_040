@@ -15,7 +15,7 @@
 
 ---
 ## 🧠 Task 3
-*(Add your Task 2 content here)*
+
 
 **Assignment 1 Repository Link:**  
 [GitHub – Assignment 1](https://github.com/Maira222/Assignment1)
