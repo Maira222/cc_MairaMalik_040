@@ -1,9 +1,9 @@
 # Lab Project Report: Terraform + Ansible Roles - Nginx Frontend with 3 Backend HTTPD Servers (HA + Auto-Config)
 
-**Student Name:** [Your Name]  
-**Roll Number:** [Your Roll Number]  
+**Student Name:** Maira Malik
+**Roll Number:** 2023-BSE-040
 **Date:** January 23, 2026  
-**Repository:** CC_[YourName]_[YourRollNumber]/LabProject_FrontendBackend  
+**Repository:** CC_MairaMalik_040/LabProject_FrontendBackend  
 
 ---
 
