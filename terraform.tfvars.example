@@ -1,0 +1,9 @@
+aws_region   = "us-east-1"
+env          = "dev"
+project_name = "cc-static-site"
+bucket_prefix = "cc-static"
+enable_logging = false
+tags = {
+  Owner = "MairaMalik_SanaTariq"
+  Class = "CloudComputing"
+}

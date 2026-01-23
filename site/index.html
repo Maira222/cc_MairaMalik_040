@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cloud Computing Static Site</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 40px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+            max-width: 600px;
+            margin: 20px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .feature {
+            background: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 10px;
+            flex: 1;
+            min-width: 200px;
+            max-width: 250px;
+        }
+        .feature h3 {
+            margin-top: 0;
+            color: #ffd700;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Cloud Computing Project</h1>
+        <p>Welcome to our multi-environment static website platform! This site is securely hosted on AWS using Terraform infrastructure and automated content deployment with Ansible.</p>
+
+        <div class="features">
+            <div class="feature">
+                <h3>🔒 Secure Hosting</h3>
+                <p>Private S3 bucket with CloudFront CDN and HTTPS redirect</p>
+            </div>
+            <div class="feature">
+                <h3>⚡ Fast Delivery</h3>
+                <p>Global content distribution with edge caching</p>
+            </div>
+            <div class="feature">
+                <h3>🔄 Automated</h3>
+                <p>Infrastructure as Code with Terraform and Ansible</p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Deployed with ❤️ using AWS, Terraform & Ansible</p>
+            <p>Environment: Development | Project: cc-static-site</p>
+        </div>
+    </div>
+</body>
+</html>
